@@ -1,0 +1,11 @@
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\Arm_App.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\Java.Interop.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\Mono.Android.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\mscorlib.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\System.Core.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\System.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\System.Xml.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\Mono.CSharp.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\Mono.Security.dll

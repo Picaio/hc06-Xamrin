@@ -1,0 +1,16 @@
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\bin\Release\Arm_App.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\bin\Release\Arm_App.pdb
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\bin\Release\Arm_App.Arm_App.apk
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\bin\Release\Arm_App.Arm_App-Signed.apk
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\Arm_App.dll
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\Arm_App.pdb
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\bin\Arm_App.Arm_App.apk
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\res\layout\main.xml
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\res\values\strings.xml
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\res\drawable\icon.png
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\res\drawable\brazocel2.jpg
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\res\drawable\iconoarm.png
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\R.cs.flag
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\uploadflags.txt
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\bin\Release\Arm_App.dll.mdb
+C:\Users\PICAIO\Desktop\brazo robot\Arm_App\Arm_App\obj\Release\android\assets\Arm_App.dll.mdb
